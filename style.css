@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.container {
+  border-style: solid;
+}
+
+.italic {
+  font-style: italic;
+}
